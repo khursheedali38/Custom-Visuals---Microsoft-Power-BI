@@ -1,0 +1,45 @@
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG p em {
+  background: yellow;
+  padding: 5px;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .Axis path,
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .Axis line {
+  fill: none;
+  stroke: black;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .Axis text {
+  font-family: sans-serif;
+  font-size: 11px;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .barChart {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  
+  vertical-align: top;
+  overflow: hidden;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .grid-background {
+  fill: #ebebeb;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .grid line {
+  stroke: #fafafa;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .grid .minor line {
+  stroke-opacity: .5;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .grid text {
+  display: none;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .axis line {
+  display: none;
+}
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .axis path,
+.visual-testvisual8A9321CD607E4CEA889F5D4BFA6B9C65_DEBUG .grid path {
+  display: none;
+}
