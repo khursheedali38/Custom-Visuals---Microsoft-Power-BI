@@ -17,13 +17,13 @@ For Power BI follow up Power BI website for downloads.
 #to update to the latest api
 npm install -g powerbi-visuals-tools
 ```
-MA
+
 ## Running the tests
 Open the `src\visual.ts` file and head towards terminal and enter:
 ```
 pbiviz start
 ```
-A new browser window with localhost server up will be displaying you visual.
+A new browser window with localhost server up will be displaying your visual.
 
 To save as Power BI package :
 ```
